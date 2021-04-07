@@ -3,11 +3,11 @@
 ## Kan du slå Marit i Blackjack?
 
 
-## Oppgaven
+## Om oppgaven
 * Du kan benytte hvilket programmeringsspråk du vil
 * Det er tilstrekkelig at besvarelsen skriver til System.out eller tilsvarende.
 * Besvarelse med tester er ikke et krav, men vil gi plusspoeng.
-* Hvis du ønsker å vise din frontendkompetanse, kan du gjerne lage en frontend
+* Hvis du ønsker å vise din frontendkompetanse, kan du gjerne lage en frontend.
 
 
 ## Regler (1)
@@ -19,7 +19,7 @@
     * Nummererte kort har poeng som angitt på kortet 
     * Knekt (J), Dronning (Q) og Konge (K) teller som 10 poeng
     * Ess (A) teller som 11 poeng
-* Regn ut om en av spillerene har 21 poeng  - Blackjack - med deres initielle kort, og dermed vinner runden
+* Regn ut om en av spillerene har 21 poeng  - Blackjack - med deres initielle kort, og dermed vinner runden.
 
 
 ## Regler (2)
@@ -56,6 +56,5 @@
             
 ## Levering
 * Oppgaven bør leveres i form av en URL til et versjonskontrollert repository, f.eks https://github.com eller https://gitlab.com. Begge tjenester tilbyr gratis repositories.
-    
-            
-# Lykke til :)
+
+## Lykke til :)
