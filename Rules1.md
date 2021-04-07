@@ -1,5 +1,5 @@
-## Velkommen til kodeoppgave i NAV FORS!
-https://navikt.github.io/fors-kodeoppgaver/oppgave2.html
+## Velkommen til kodeoppgave 1 i NAV FORS!
+
 
 ## Kan du slå Marit i Blackjack?
 
