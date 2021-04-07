@@ -116,7 +116,7 @@
  .reveal ul {
      display: inline-block;
      text-align: left;
-     margin: 0 0 0 10em;
+     margin: 0 0 0 1em;
  }
  
  .reveal ol {
@@ -125,8 +125,13 @@
  
  .reveal ul {
      list-style-type: disc;
-     margin-bottom:20px;
  }
+
+ .reveal li {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
  
  .reveal ul ul {
      list-style-type: square;
