@@ -1,4 +1,4 @@
-## Velkommen til kodeoppgave i NAV FORS
+## Velkommen til kodeoppgave i NAV FORS!
 
 ## Kan du slå Marit i Blackjack?
 
