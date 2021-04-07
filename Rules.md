@@ -1,4 +1,4 @@
-## Velkommen til kodeoppgave i NAV FORS!
+## Velkommen til kodeoppgaver i NAV FORS!
 Du kan velge mellom følgende to oppgaver:
 * Oppgave 1
     * I denne oppgaven skal du løse en standard programmeringsoppgave med et valgfritt språk.
