@@ -6,6 +6,7 @@
 * En del av oppgaven handler om å beskrive hvordan du forbereder og importerer data (ETL) slik at du kan jobbe videre med dem.
 * Vi ønsker så at du lager noen enkle tabulariske oversikter med tilhørende visualiseringer som viser åpenbare sammenhenger i datasettet.
 * Ta det ett steg videre og kom opp med en eller flere beregninger og/eller visualiseringer som går utover det du gjorde i forrige punkt.
+* Gitt oppgavens høye frihetsgrad så er det fint om du dokumenterer de forutsetningene som du velger for løsningen.
 
 ## Levering
 * Oppgaven bør leveres i form av en URL til et versjonskontrollert repository, f.eks https://github.com eller https://gitlab.com. Begge tjenester tilbyr gratis repositories.
