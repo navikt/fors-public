@@ -8,7 +8,7 @@
 * Du kan benytte hvilket programmeringsspråk du vil
 * Det er tilstrekkelig at besvarelsen skriver til System.out eller tilsvarende.
 * Besvarelse med tester er ikke et krav, men vil gi plusspoeng.
-* Hvis du ønsker å vise din frontendkompetanse, kan du gjerne lage en frontend, men det er ikke et krav.
+* Hvis du ønsker å vise din front-end-kompetanse, kan du gjerne lage en front-end, men det er ikke et krav.
 
 
 ## Regler (1)
