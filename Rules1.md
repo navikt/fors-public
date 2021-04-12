@@ -57,5 +57,6 @@
             
 ## Levering
 * Oppgaven bør leveres i form av en URL til et versjonskontrollert repository, f.eks https://github.com eller https://gitlab.com. Begge tjenester tilbyr gratis repositories.
+* Hvis leveringsmåten over ikke fungerer så informere oss gjerne på e-post hvordan du ønsker å levere oppgaven.
 
 ## Lykke til :)
