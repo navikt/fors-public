@@ -1,12 +1,21 @@
 ## Velkommen til kodeoppgave 2 i NAV FORS!
 
+## Kan du slå Rune i Tre på rad?
+
 ## Om oppgaven
 * Du kan benytte hvilket programmeringsspråk eller programvare du vil
-* Last ned følgende datafil og les den inn i et program som du selv har laget: https://navikt.github.io/fors-kodeoppgaver/data.xlsx
-* En del av oppgaven handler om å beskrive hvordan du forbereder og importerer data (ETL) slik at du kan jobbe videre med dem.
-* Vi ønsker så at du lager noen enkle tabulariske oversikter med tilhørende visualiseringer som viser åpenbare sammenhenger i datasettet.
-* Ta det ett steg videre og kom opp med en eller flere beregninger og/eller visualiseringer som går utover det du gjorde i forrige punkt.
-* Gitt oppgavens høye frihetsgrad så er det fint om du dokumenterer de forutsetningene som du velger for løsningen.
+* Når du møter til intervju så vil vi at du kan demonstrere kjørbar kode.
+* Oppgaven skal være dokumentert på en måte som gjør at vi forstår hva som skal til for å kjøre den.
+
+
+## Regler
+* Spillet spilles på et 3x3 rutenett
+* Spillet spilles best av ti og det er datamaskinen som begynner. Deretter annenhver gang.
+* Du er X. Motstander, altså datamaskinen, kaller vi for Rune.
+* Den første som får tre på rad (opp, ned, på tvers eller diagonalt) vinner runden.
+* Når alle ni rutene er fylte så er runden ferdig og resultatet for runden skrives ut.
+* Når man har spill ti runder så er spillet slutt og resultatet skrives ut.
+
 
 ## Levering
 * Oppgaven bør leveres i form av en URL til et versjonskontrollert repository, f.eks https://github.com eller https://gitlab.com. Begge tjenester tilbyr gratis repositories.
