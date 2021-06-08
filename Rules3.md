@@ -11,8 +11,7 @@
 ## Regler (1)
 * Du skal lage et spill som simulerer en enkel variant av Yatzy
 * Datamaskinen spiller selv, uten input fra noe menneske
-* Spillet bruker 5 terninger
-* Spillet skal ha en eller flere strategier for å få så mange poeng som mulig
+* Spillet bruker 5 terninger, og skal ha en eller flere strategier for å få så mange poeng som mulig
 * Det spilles om poeng i 6 kategorier, som angir hver sin verdi på terningen: Enere, toere, treere, firere, femmere og seksere
     * Det kastes en runde pr kategori, men strategien velger selv hvilken rekkefølge kategoriene tas i
     * Hver runde består av inntil tre kast
@@ -44,6 +43,6 @@
 
 ## Levering
 * Oppgaven bør leveres i form av en URL til et versjonskontrollert repository, f.eks. https://github.com eller https://gitlab.com. Begge tjenester tilbyr gratis repositories.
-* Hvis leveringsmåten over ikke fungerer så informere oss gjerne på e-post hvordan du ønsker å levere oppgaven.
+* Hvis leveringsmåten over ikke fungerer, så informere oss gjerne på e-post hvordan du ønsker å levere oppgaven.
 
 ## Lykke til :)

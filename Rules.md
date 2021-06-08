@@ -1,5 +1,5 @@
-## Velkommen til kodeoppgaver i NAV FORS!
-Du kan velge mellom følgende to oppgaver:
+## Velkommen til kodeoppgaver i NAV – FORS!
+Du kan velge mellom følgende tre oppgaver:
 * Oppgave 1
     * Blackjack.
     * Lenke: https://navikt.github.io/fors-kodeoppgaver/oppgave1.html
