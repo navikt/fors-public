@@ -1,11 +1,11 @@
 ## Velkommen til kodeoppgave 3 – en slags Yatzy!
 
+
 ## Om oppgaven
 * Du kan benytte hvilket programmeringsspråk eller programvare du vil.
 * Når du møter til intervju så vil vi at du kan demonstrere kjørbar kode.
 * Oppgaven skal være dokumentert på en måte som gjør at vi forstår hva som skal til for å kjøre den.
 * Om det er noe du gjerne skulle gjort, men ikke fikk tid til, vær så snill og fortell om det i README. Da kan gi deg noen plusspoeng for det likevel!
-* Du bør uansett lage en README som forteller hvordan koden skal kjørs på en enklest mulig måte.
 
 
 ## Regler (1)
@@ -22,6 +22,7 @@
     * Endepunktet tar en parameter n som representerer antall terninger
     * Endepunktet vil returnere n verdier
     * Eksempel: http://nav-yatzy.herokuapp.com/throw?n=5
+
 
 ## Regler (2)
 * Etter en runde skal en av kategoriene fylles ut med en poengsum

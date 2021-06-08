@@ -9,7 +9,6 @@
 * Om det er noe du gjerne skulle gjort, men ikke fikk tid til, vær så snill og fortell om det i README. Da kan gi deg noen plusspoeng for det likevel!
 
 
-
 ## Regler
 * Spillet spilles på et 3x3 rutenett
 * Spillet spilles best av ti runder og det er datamaskinen som begynner. Deretter annenhver gang.
@@ -22,5 +21,6 @@
 ## Levering
 * Oppgaven bør leveres i form av en URL til et versjonskontrollert repository, f.eks https://github.com eller https://gitlab.com. Begge tjenester tilbyr gratis repositories.
 * Hvis leveringsmåten over ikke fungerer så informere oss gjerne på e-post hvordan du ønsker å levere oppgaven.
+
 
 ## Lykke til :)

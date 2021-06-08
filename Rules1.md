@@ -13,7 +13,6 @@
 * Om det er noe du gjerne skulle gjort, men ikke fikk tid til, vær så snill og fortell om det i README. Da kan gi deg noen plusspoeng for det likevel!
 
 
-
 ## Regler (1)
 * To spillere, du og Marit, skal spille mot hverandre!
 * Hver spiller tar to kort hver fra toppen av en tilfeldig stokket kortstokk. 
