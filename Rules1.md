@@ -6,9 +6,12 @@
 
 ## Om oppgaven
 * Du kan benytte hvilket programmeringsspråk du vil
-* Det er tilstrekkelig at besvarelsen skriver til System.out eller tilsvarende.
+* Når du møter til intervju så vil vi at du kan demonstrere kjørbar kode.
+* Oppgaven skal være dokumentert på en måte som gjør at vi forstår hva som skal til for å kjøre den.
 * Besvarelse med tester er ikke et krav, men vil gi plusspoeng.
 * Hvis du ønsker å vise din front-end-kompetanse, kan du gjerne lage en front-end, men det er ikke et krav.
+* Om det er noe du gjerne skulle gjort, men ikke fikk tid til, vær så snill og fortell om det i README. Da kan gi deg noen plusspoeng for det likevel!
+
 
 
 ## Regler (1)
