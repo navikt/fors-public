@@ -10,11 +10,11 @@
 
 ## Regler
 * Spillet spilles på et 3x3 rutenett
-* Spillet spilles best av ti og det er datamaskinen som begynner. Deretter annenhver gang.
-* Du er X. Motstander, altså datamaskinen, kaller vi for Rune.
+* Spillet spilles best av ti runder og det er datamaskinen som begynner. Deretter annenhver gang.
+* Du er spiller X. Motstander, altså datamaskinen, kaller vi for Rune.
 * Den første som får tre på rad (opp, ned, på tvers eller diagonalt) vinner runden.
 * Når alle ni rutene er fylte så er runden ferdig og resultatet for runden skrives ut.
-* Når man har spill ti runder så er spillet slutt og resultatet skrives ut.
+* Når man har spilt ti runder så er spillet slutt og resultatet skrives ut.
 
 
 ## Levering

@@ -6,3 +6,6 @@ Du kan velge mellom følgende to oppgaver:
 * Oppgave 2
     * Tre på rad.
     * Lenke: https://navikt.github.io/fors-kodeoppgaver/oppgave2.html
+* Oppgave 3
+    * En slags Yatzy.
+    * Lenke: https://navikt.github.io/fors-kodeoppgaver/oppgave3.html
