@@ -6,7 +6,6 @@
 * Du kan benytte hvilket programmeringsspråk eller programvare du vil
 * Når du møter til intervju så vil vi at du kan demonstrere kjørbar kode.
 * Oppgaven skal være dokumentert på en måte som gjør at vi forstår hva som skal til for å kjøre den.
-* Om det er noe du gjerne skulle gjort, men ikke fikk tid til, vær så snill og fortell om det i README. Da kan gi deg noen plusspoeng for det likevel!
 
 
 ## Regler
