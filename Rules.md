@@ -9,3 +9,6 @@ Du kan velge mellom følgende tre oppgaver:
 * Oppgave 3
     * En slags Yatzy.
     * Lenke: https://navikt.github.io/fors-kodeoppgaver/oppgave3.html
+* Oppgave 4
+    * Et lite kortspill.
+    * Lenke: https://navikt.github.io/fors-kodeoppgaver/oppgave4.html
