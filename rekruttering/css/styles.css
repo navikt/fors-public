@@ -1,0 +1,25 @@
+.hero {
+  background-image:url('../assets/img/code_cafe.png');
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-position:center;
+  height: 100vh;
+}
+
+.hero-inner {
+  height: 100vh;
+  vertical-align: middle;
+}
+
+.hero-text {
+  width:100%;
+  height:100vh;
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.display-1 {
+  font-weight: 700 !important;
+}
