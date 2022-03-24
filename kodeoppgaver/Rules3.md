@@ -1,11 +1,10 @@
 ## Velkommen til kodeoppgave 3 – en slags Yatzy!
 
-
 ## Om oppgaven
-* Du kan benytte hvilket programmeringsspråk eller programvare du vil.
 * Når du møter til intervju så vil vi at du kan demonstrere kjørbar kode.
 * Oppgaven skal være dokumentert på en måte som gjør at vi forstår hva som skal til for å kjøre den.
-
+* Besvarelse med tester er ikke et krav, men vil gi plusspoeng.
+* Hvis du ønsker å vise din front-end-kompetanse, kan du gjerne lage en front-end, men det er ikke et krav.
 
 ## Regler (1)
 * Du skal lage et spill som simulerer en enkel variant av Yatzy
@@ -40,6 +39,14 @@
    },
    "total": 69
  }```
+
+
+## Ikke-funksjonelle krav
+* Oppgaven må løses med et reelt programmeringsspråk. Spesifikt godkjennes ikke SQL eller proprietære utvidelser av SQL.
+* Det må følge med en steg for steg oppskrift som forteller hva som må til for å få programmet til å kjøre.
+* Løsningen kan ikke forutsette komponenter slik som databaser el.l. for å kjøre.
+* Ut over operativsystem kan ikke løsningen  forutsette kommersielle produkter for å kjøre
+* Det skal være mulig kjøre løsningen på moderne operativsystemer slik som Windows, OSX og Linux.
 
 ## Levering
 * Oppgaven bør leveres i form av en URL til et versjonskontrollert repository, f.eks. https://github.com eller https://gitlab.com. Begge tjenester tilbyr gratis repositories.

@@ -4,6 +4,12 @@
 * I denne oppgave skal vi utvikle et enkelt kortspill for to spillere. 
 * Vi skal ikke utvikle et brukergrensesnitt, så vi vil la programmet lage to virtuelle spillere med hver sin strategi for å vinne.
 
+## Om oppgaven
+* Når du møter til intervju så vil vi at du kan demonstrere kjørbar kode.
+* Oppgaven skal være dokumentert på en måte som gjør at vi forstår hva som skal til for å kjøre den.
+* Besvarelse med tester er ikke et krav, men vil gi plusspoeng.
+* Hvis du ønsker å vise din front-end-kompetanse, kan du gjerne lage en front-end, men det er ikke et krav.
+
 ## Game play
 * I vårt spill bruker vi kort fra en vanlig kortstokk og sorterer kortene i fire bunker etter sort/type (suits). En av bunkene blir valgt som premiebunke og legges på bordet med ett kort opp. Premiebunken skal være stokket. 
 * Så får hver av spillerne utdelt hver sin bunke fra de resterende tre. Den siste bunken legges til side og er ikke med i spillet.
@@ -19,7 +25,12 @@
 * Hvis spillerne har samme poengsum skrives det ut "Uavgjort".
 
 ## Ikke-funksjonelle krav
-* Løsningen kan utvikles med hvilket som helst programmeringsspråk, men det må følge med en steg for steg oppskrift som forteller hva som må til for å få programmet til å kjøre.
+* Oppgaven må løses med et reelt programmeringsspråk. Spesifikt godkjennes ikke SQL eller proprietære utvidelser av SQL.
+* Det må følge med en steg for steg oppskrift som forteller hva som må til for å få programmet til å kjøre.
+* Løsningen kan ikke forutsette komponenter slik som databaser el.l. for å kjøre.
+* Ut over operativsystem kan ikke løsningen  forutsette kommersielle produkter for å kjøre
+* Det skal være mulig kjøre løsningen på moderne operativsystemer slik som Windows, OSX og Linux.
+
 
 ## Levering
 * Oppgaven bør leveres i form av en URL til et versjonskontrollert repository, f.eks. https://github.com eller https://gitlab.com. Begge tjenester tilbyr gratis repositories.
