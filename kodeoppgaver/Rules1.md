@@ -15,7 +15,7 @@
 ## Regler (1)
 * To spillere, du og Marit, skal spille mot hverandre!
 * Hver spiller tar to kort hver fra toppen av en tilfeldig stokket kortstokk. 
-    * Endpointet for dette finner du her: https://blackjack.labs.nais.io/shuffle
+    * Endpointet for dette finner du her: https://blackjack.ekstern.dev.nav.no/shuffle
 * Du tar de to første kortene, Marit tar de to neste
 * Regn ut den samlede poengsummen til hver spiller
     * Nummererte kort har poeng som angitt på kortet 
@@ -43,7 +43,7 @@
 
 
 ## Om kortstokken
-* Kortstokken finnes på https://blackjack.labs.nais.io/shuffle
+* Kortstokken finnes på https://blackjack.ekstern.dev.nav.no/shuffle
 * Formatet på kortstokken er en JSON-array med 52 elementer
 * Hvert element er et objekt med  egenskapene `suit` og `value`
     * `suit` -> [`HEARTS`|`DIAMONDS`|`SPADES`|`CLUBS`]
